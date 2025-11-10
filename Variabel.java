@@ -3,8 +3,8 @@ public class Variabel{
         String nama = "Ghaitsa Tsuraya Shofa";
         String tempatTanggalLahir = "Sukabumi, 09 Agustus 2006";
         String jenisKelamin = "Perempuan";
-        String alamatLengkap = "Sukabumi, Benda";
-        String noHp = "0821256572";
+        String alamatLengkap = "Cicurug, Desa Benda";
+        String noHp = "0821536782";
         double penghasilanSebulan = 2900000;
 
         System.out.println("Assalamu'alaikum");
